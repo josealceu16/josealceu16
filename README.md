@@ -1,10 +1,11 @@
 Olá, eu sou o José Alceu 👋
 📚  Estudando Java 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealceu16&theme=transparent&show_icons=true)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealceu16&theme=transparent&hide_border=false&&layout=compact"/>
+<div align="center">
+  <a href="https://github.com/josealceu16">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josealceu16&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealceu16&theme=transparent&hide_border=false&&layout=compact"/>
   </a>
 </div>
-##
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="Alceu-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"</div>
