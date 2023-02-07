@@ -1,5 +1,5 @@
 Olá, eu sou o José Alceu 👋
-📚  Estudando Java 
+<br>📚  Estudando Java</br>
 <div align="center">
   <a href="https://github.com/josealceu16">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josealceu16&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
